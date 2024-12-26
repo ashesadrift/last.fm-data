@@ -9,3 +9,5 @@ Solely as a result of the way I wrote the code, I had to open my lastfm-crystalz
 
 # Python code
 Download the Python file provided, open it, and scroll to the bottom (to main()). Insert the name of your file with the last.fm data (for instance, 'lastfm-crystalz63.txt') and create a name for the .csv file the program will create.
+
+From there, a lot can be done with the data, like a Spotify Wrapped, but I'm not sure how I'd want to format it so for now it's simply the raw scrobble data.
